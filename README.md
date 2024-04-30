@@ -1,2 +1,1 @@
-# CGPA-calculator
-This repository contains a simple C program for calculating Cumulative Grade Point Average (CGPA) based on engineering semester results.
+This repository contains a simple C program for calculating Cumulative Grade Point Average (CGPA) based on engineering semester results. The program takes input for all subjects and their corresponding grades, calculates the CGPA, and displays the result. It's a handy tool for engineering students to quickly compute their CGPA without manual calculation.
